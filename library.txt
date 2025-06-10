@@ -1,7 +1,1 @@
-streamlit
-plotly.express
-pandas
-datetime
-Image
-plotly.graph_objects
-plotly
+
